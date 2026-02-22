@@ -1,0 +1,6 @@
+@pronto_back_HostAddress = http://localhost:5195
+
+GET {{pronto_back_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
